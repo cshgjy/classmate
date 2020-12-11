@@ -1,0 +1,2 @@
+https://cdn.jsdelivr.net/gh/cshgjy/classmate/music/images/music_off.png
+https://cdn.jsdelivr.net/gh/cshgjy/classmate/music/images/music_on.png
